@@ -1,3 +1,8 @@
+# DEMO - DATEPICKER SLIDER COMPONENT CHALLENGE
+
+FOR DEMO VISIT: [https://ueni-challenge-6y93ev6vb-nnadozie.vercel.app/](https://ueni-challenge-6y93ev6vb-nnadozie.vercel.app/)
+
+
 # UENI coding challenge
 
 *(Expected required time is 45-90 minutes)*
